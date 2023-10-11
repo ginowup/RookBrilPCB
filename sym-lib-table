@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CustomSymbols")(type "KiCad")(uri "${KIPRJMOD}/CustomLibrary/SymbolLibrary.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS61170DRVR")(type "KiCad")(uri "${KIPRJMOD}/CustomLibrary/TPS61170DRVR.kicad_sym")(options "")(descr ""))
+)

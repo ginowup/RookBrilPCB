@@ -334,7 +334,11 @@
     ],
     [
       "2d26b15a-54d8-4f7d-a410-dc25ffe321a1",
-      "Power"
+      "PDLC boost"
+    ],
+    [
+      "b5328c87-500d-46a7-aecc-989117275688",
+      "3V_BUCK-BOOST"
     ]
   ],
   "text_variables": {}

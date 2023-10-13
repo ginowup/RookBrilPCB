@@ -318,7 +318,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "./",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
@@ -335,6 +335,10 @@
     [
       "2d26b15a-54d8-4f7d-a410-dc25ffe321a1",
       "PDLC boost"
+    ],
+    [
+      "d4272076-6289-417e-a51e-9430beab01b7",
+      "MCU"
     ],
     [
       "b5328c87-500d-46a7-aecc-989117275688",

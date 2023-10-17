@@ -704,7 +704,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 52a5c45a-a203-4a9d-b1e6-8d95a408f523)
   )
-  (text "Vin_min = 3.2V\nVin_max = 6V" (at 113.665 84.455 0)
+  (text "Vin_min = 3.2V\nVin_max = 6V" (at 113.792 84.582 0)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 687e7b1c-65dc-494d-b8f2-234949f212ee)
   )

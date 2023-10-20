@@ -2405,8 +2405,8 @@
     (property "Datasheet" "~" (at 96.52 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6158002f-be25-496b-b369-2cb3ca62cbed))
-    (pin "2" (uuid 0505944d-6322-43fd-8d53-7d65595f7acd))
+    (pin "1" (uuid 17d2cf37-2ed1-48a9-9741-380f0b46e3fd))
+    (pin "2" (uuid 232e136f-cb8b-4d3f-bd89-ebfb229b61c5))
     (instances
       (project "RookBril"
         (path "/5dc439a9-720d-4bdc-b61f-78a76fde4df5"
@@ -2890,10 +2890,10 @@
   (symbol (lib_id "Device:C") (at 151.13 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f9b7eeff-785a-4d07-9714-f9051c383d51)
-    (property "Reference" "C?" (at 154.305 28.575 0)
+    (property "Reference" "C?" (at 154.94 28.575 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "4.7u" (at 154.305 31.115 0)
+    (property "Value" "10u" (at 154.94 31.115 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 152.0952 33.02 0)

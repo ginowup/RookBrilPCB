@@ -1,0 +1,18 @@
+(footprint "exposedPad5x10" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp 321375ee-7bf5-4ee4-9a65-bfba842d3924)
+  )
+  (fp_text value "exposedPad5x10" (at 0 1 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp e4e8ef0d-a2ff-4e55-9161-0bc804a77cf5)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 93ac921a-0bb7-4699-b161-c6e79c22fdde)
+  )
+  (pad "1" smd rect (at 0 0 90) (size 5 10) (layers "F.Cu" "F.Mask") (tstamp 5341fb46-8e4c-4d2e-aab9-c33be9718169))
+  (pad "1" smd rect (at 0 0 90) (size 5 10) (layers "B.Cu" "B.Mask") (tstamp 8d376f3e-5d15-4198-b8e6-f02a4d09c2de))
+)

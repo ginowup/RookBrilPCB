@@ -2354,7 +2354,7 @@
     (property "Datasheet" "" (at 251.46 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 23ebf6f5-c598-408e-915c-07d8a1d2cc45))
+    (pin "1" (uuid e8f8a80d-f2fc-4a09-b076-3eb66b7f0831))
     (instances
       (project "RookBril"
         (path "/5dc439a9-720d-4bdc-b61f-78a76fde4df5"
@@ -2647,14 +2647,14 @@
     (property "Datasheet" "~" (at 238.76 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "8" (uuid 84769ea0-6c0a-4c2d-9f8f-618d28f1c5e7))
-    (pin "7" (uuid 2c0cc907-9f1d-4a90-ba0c-9f220be0aad4))
-    (pin "6" (uuid 517626a0-b754-4780-b4c6-69031b2cd689))
-    (pin "3" (uuid cdd7080b-febc-4da4-927e-ade70d9a539a))
+    (pin "1" (uuid d8ab64af-9d43-4453-a185-e0130bf428c7))
     (pin "2" (uuid eb614cef-2c3a-4c39-b3b3-aa4e0eb0a3d1))
+    (pin "3" (uuid cdd7080b-febc-4da4-927e-ade70d9a539a))
     (pin "4" (uuid bab590b4-83f8-4d82-880a-30b52e046122))
     (pin "5" (uuid 99005278-2bbe-4c04-8bc5-bb58e05d3d08))
-    (pin "1" (uuid d8ab64af-9d43-4453-a185-e0130bf428c7))
+    (pin "6" (uuid 517626a0-b754-4780-b4c6-69031b2cd689))
+    (pin "7" (uuid 2c0cc907-9f1d-4a90-ba0c-9f220be0aad4))
+    (pin "8" (uuid 84769ea0-6c0a-4c2d-9f8f-618d28f1c5e7))
     (instances
       (project "RookBril"
         (path "/5dc439a9-720d-4bdc-b61f-78a76fde4df5/d4272076-6289-417e-a51e-9430beab01b7"
@@ -3433,11 +3433,11 @@
     (property "Datasheet" "~" (at 215.9 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "4" (uuid ee13d9a8-c71b-4f59-9517-1ace07be0ad3))
     (pin "1" (uuid 19ee99a5-48fd-45bb-aca9-9126e98b84a6))
-    (pin "3" (uuid 3426c64e-1f1d-4a9d-bc67-4dc25a5653b9))
-    (pin "5" (uuid 9a7ef63f-7303-4046-8e8b-a618b0ec5bd1))
     (pin "2" (uuid 947875d5-fcc1-4c3e-bc6b-b7279148eaf0))
+    (pin "3" (uuid 3426c64e-1f1d-4a9d-bc67-4dc25a5653b9))
+    (pin "4" (uuid ee13d9a8-c71b-4f59-9517-1ace07be0ad3))
+    (pin "5" (uuid 9a7ef63f-7303-4046-8e8b-a618b0ec5bd1))
     (instances
       (project "RookBril"
         (path "/5dc439a9-720d-4bdc-b61f-78a76fde4df5/d4272076-6289-417e-a51e-9430beab01b7"
@@ -3462,7 +3462,7 @@
     (property "Datasheet" "" (at 251.46 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 672e4b35-75cb-4c02-891d-7f276904f272))
+    (pin "1" (uuid 3496be5e-d61e-4cae-80dc-07f5cd46c1cb))
     (instances
       (project "RookBril"
         (path "/5dc439a9-720d-4bdc-b61f-78a76fde4df5"

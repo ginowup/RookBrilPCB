@@ -2450,8 +2450,8 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 8fdd7305-2405-4f2e-8e69-d4d314ee4c2e))
-    (pin "3" (uuid 15a8738c-31eb-4120-bf32-58a48092fb60))
     (pin "2" (uuid 3504ab4c-a18b-4e6f-80f6-d1c2e55ae09a))
+    (pin "3" (uuid 15a8738c-31eb-4120-bf32-58a48092fb60))
     (instances
       (project "RookBril"
         (path "/5dc439a9-720d-4bdc-b61f-78a76fde4df5/2d26b15a-54d8-4f7d-a410-dc25ffe321a1"
